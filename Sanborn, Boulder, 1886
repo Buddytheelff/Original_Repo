@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#8080ff",
+        "fill-opacity": 0.5,
         "Sheet": 4,
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
@@ -63,6 +68,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ffff00",
+        "fill-opacity": 0.5,
         "Sheet": 3,
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
@@ -98,6 +108,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff0000",
+        "fill-opacity": 0.5,
         "Sheet": 2,
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
@@ -133,6 +148,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Sheet": "1a",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Boulder city brewery"
@@ -168,6 +188,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Sheet": "1b",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Berlin & Co Aggregation Mills"
@@ -203,6 +228,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Sheet": "1c",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Golden sampling Co's"
@@ -238,6 +268,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Sheet": "1d",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Boyd & Whitney Reduction Works"
