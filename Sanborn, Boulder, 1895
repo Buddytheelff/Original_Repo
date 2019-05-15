@@ -5,7 +5,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "2a",
-        "Atlas": "West Pearl"
+        "Alias": "West Pearl",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -39,7 +40,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "1a",
-        "Atlas": "Boyd Mill"
+        "Alias": "Boyd Mill",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -73,7 +75,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 7,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -115,7 +118,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 8,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -157,7 +161,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "9a",
-        "Atlas": "Highland School"
+        "Alias": "Highland School",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -191,7 +196,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 5,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -225,7 +231,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 6,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -259,7 +266,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 3,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -301,7 +309,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "2b",
-        "Atlas": "East Pearl"
+        "Alias": "East Pearl",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -335,7 +344,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": 4,
-        "Atlas": "N/A"
+        "Alias": "N/A",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -377,7 +387,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "9b",
-        "Atlas": "Boulder City Brewery"
+        "Alias": "Boulder City Brewery",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
@@ -411,7 +422,8 @@
       "type": "Feature",
       "properties": {
         "Sheet": "9c",
-        "Atlas": "University of Colorado"
+        "Alias": "University of Colorado",
+        "Atlas": "Boulder, 1895"
       },
       "geometry": {
         "type": "Polygon",
