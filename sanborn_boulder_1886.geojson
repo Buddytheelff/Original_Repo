@@ -4,12 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#8080ff",
-        "fill-opacity": 0.5,
-        "Sheet": 4,
+        "Sheet": "sh. 4",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
       },
@@ -68,12 +63,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ffff00",
-        "fill-opacity": 0.5,
-        "Sheet": 3,
+        "Sheet": "sh. 3",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
       },
@@ -108,12 +98,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff0000",
-        "fill-opacity": 0.5,
-        "Sheet": 2,
+        "Sheet": "sh. 2",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "N/A"
       },
@@ -148,12 +133,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff8080",
-        "fill-opacity": 0.5,
-        "Sheet": "1a",
+        "Sheet": "sh. 1",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Boulder city brewery"
       },
@@ -188,12 +168,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff8080",
-        "fill-opacity": 0.5,
-        "Sheet": "1b",
+        "Sheet": "sh. 1",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Berlin & Co Aggregation Mills"
       },
@@ -228,12 +203,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff8080",
-        "fill-opacity": 0.5,
-        "Sheet": "1c",
+        "Sheet": "sh. 1",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Golden sampling Co's"
       },
@@ -268,12 +238,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff8080",
-        "fill-opacity": 0.5,
-        "Sheet": "1d",
+        "Sheet": "sh. 1",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Boyd & Whitney Reduction Works"
       },
@@ -308,12 +273,7 @@
     {
       "type": "Feature",
       "properties": {
-        "stroke": "#555555",
-        "stroke-width": 2,
-        "stroke-opacity": 1,
-        "fill": "#ff8080",
-        "fill-opacity": 0.5,
-        "Sheet": "1e",
+        "Sheet": "sh. 1",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Metcalf's Reduction Works"
       },
