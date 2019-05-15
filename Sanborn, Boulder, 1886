@@ -308,6 +308,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#ff8080",
+        "fill-opacity": 0.5,
         "Sheet": "1e",
         "Atlas": "Boulder, 1886",
         "Alias sheet 1": "Metcalf's Reduction Works"
