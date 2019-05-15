@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 4",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "N/A"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Boulder, Colorado",
+        "Year": 1886,
+        "Sheet Number": "sh. 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -63,9 +64,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 3",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "N/A"
+        "Year": 1886,
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -98,9 +100,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 2",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "N/A"
+        "Year": 1886,
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -133,9 +136,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 1",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "Boulder city brewery"
+        "Year": 1886,
+        "Sheet Number": "sh. 1",
+        "Location": "Boulder, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -168,9 +172,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 1",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "Berlin & Co Aggregation Mills"
+        "Year": 1886,
+        "Sheet Number": "sh. 1",
+        "Location": "Boulder, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -203,9 +208,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 1",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "Golden sampling Co's"
+        "Year": 1886,
+        "Sheet Number": "sh. 1",
+        "Location": "Boulder, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -238,9 +244,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 1",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "Boyd & Whitney Reduction Works"
+        "Year": 1886,
+        "Sheet Number": "sh. 1",
+        "Location": "Boulder, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -273,9 +280,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "sh. 1",
-        "Atlas": "Boulder, 1886",
-        "Alias sheet 1": "Metcalf's Reduction Works"
+        "Year": 1886,
+        "Sheet Number": "sh. 1",
+        "Location": "Boulder, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
