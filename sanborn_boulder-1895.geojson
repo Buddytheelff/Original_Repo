@@ -4,9 +4,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "2a",
-        "Alias": "West Pearl",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -39,9 +40,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "1a",
-        "Alias": "Boyd Mill",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -74,9 +76,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 7,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 7"
       },
       "geometry": {
         "type": "Polygon",
@@ -117,9 +120,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 8,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 8"
       },
       "geometry": {
         "type": "Polygon",
@@ -160,9 +164,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "9a",
-        "Alias": "Highland School",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 9"
       },
       "geometry": {
         "type": "Polygon",
@@ -195,9 +200,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 5,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 5"
       },
       "geometry": {
         "type": "Polygon",
@@ -230,9 +236,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 6,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 6"
       },
       "geometry": {
         "type": "Polygon",
@@ -265,9 +272,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 3,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -308,9 +316,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "2b",
-        "Alias": "East Pearl",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -343,9 +352,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": 4,
-        "Alias": "N/A",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -386,9 +396,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "9b",
-        "Alias": "Boulder City Brewery",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 9"
       },
       "geometry": {
         "type": "Polygon",
@@ -421,9 +432,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Sheet": "9c",
-        "Alias": "University of Colorado",
-        "Atlas": "Boulder, 1895"
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 9"
       },
       "geometry": {
         "type": "Polygon",
