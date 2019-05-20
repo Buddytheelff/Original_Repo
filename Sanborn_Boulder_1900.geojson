@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +39,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65,7 +75,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -104,7 +119,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 9"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -143,7 +163,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -174,7 +199,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 10"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -205,7 +235,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 11"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -244,7 +279,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -275,7 +315,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -306,7 +351,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 8"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -337,7 +387,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -368,7 +423,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -399,7 +459,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 3 "
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -430,7 +495,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 14"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -461,7 +531,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -492,7 +567,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 12"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -523,7 +603,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Boulder, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
