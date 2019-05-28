@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 8"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +39,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -69,7 +79,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -108,7 +123,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -139,7 +159,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -170,7 +195,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -201,7 +231,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -232,7 +267,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 9"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -263,7 +303,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 10"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -294,7 +339,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 11"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -325,7 +375,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 12"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -349,6 +404,202 @@
             [
               -104.61609721183777,
               38.2623823796395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.61553394794464,
+              38.266649061467646
+            ],
+            [
+              -104.61587727069855,
+              38.26688913384665
+            ],
+            [
+              -104.61703598499298,
+              38.266013076417835
+            ],
+            [
+              -104.61668193340302,
+              38.265760365580626
+            ],
+            [
+              -104.61553394794464,
+              38.266649061467646
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.60693210363388,
+              38.26359122806812
+            ],
+            [
+              -104.60566878318787,
+              38.26362492390339
+            ],
+            [
+              -104.60569024085999,
+              38.26473266578495
+            ],
+            [
+              -104.60695624351501,
+              38.26470739429535
+            ],
+            [
+              -104.60693210363388,
+              38.26359122806812
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.60795938968658,
+              38.25549535069993
+            ],
+            [
+              -104.60834562778473,
+              38.2550404047025
+            ],
+            [
+              -104.60696697235107,
+              38.25443380560851
+            ],
+            [
+              -104.60664510726929,
+              38.254939305205134
+            ],
+            [
+              -104.60795938968658,
+              38.25549535069993
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.60939168930054,
+              38.26104293524043
+            ],
+            [
+              -104.60888743400574,
+              38.26065963056901
+            ],
+            [
+              -104.60804522037506,
+              38.26127460191846
+            ],
+            [
+              -104.60852265357971,
+              38.261645267066775
+            ],
+            [
+              -104.60939168930054,
+              38.26104293524043
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1886,
+        "Location": "Pueblo, Colorado",
+        "Sheet Number": "sh. 15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.60434913635254,
+              38.26404612052552
+            ],
+            [
+              -104.60395216941833,
+              38.2632247848503
+            ],
+            [
+              -104.60336208343506,
+              38.26340590069473
+            ],
+            [
+              -104.60285246372223,
+              38.262534013298335
+            ],
+            [
+              -104.60216045379639,
+              38.26278252333266
+            ],
+            [
+              -104.6016776561737,
+              38.26199908203506
+            ],
+            [
+              -104.59932804107666,
+              38.26284149169057
+            ],
+            [
+              -104.60074424743651,
+              38.26523809373096
+            ],
+            [
+              -104.60434913635254,
+              38.26404612052552
             ]
           ]
         ]
