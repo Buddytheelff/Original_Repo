@@ -3,7 +3,12 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -34,7 +39,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -65,7 +75,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -96,7 +111,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -155,7 +175,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -198,7 +223,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -229,7 +259,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 3"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -260,7 +295,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -291,7 +331,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -322,7 +367,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -353,7 +403,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 4"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -440,7 +495,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 5"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -503,7 +563,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 6"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -562,7 +627,12 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 7"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -606,6 +676,94 @@
             [
               -105.51432609558105,
               39.801204600847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.52896559238434,
+              39.79679876672049
+            ],
+            [
+              -105.530886054039,
+              39.79656795752653
+            ],
+            [
+              -105.53066611289978,
+              39.79534383153223
+            ],
+            [
+              -105.53136348724364,
+              39.79521193786903
+            ],
+            [
+              -105.53120255470274,
+              39.79446590957542
+            ],
+            [
+              -105.52932500839233,
+              39.794737942929224
+            ],
+            [
+              -105.52947521209717,
+              39.79534795320513
+            ],
+            [
+              -105.52868127822876,
+              39.79547160327726
+            ],
+            [
+              -105.52896559238434,
+              39.79679876672049
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Central City, Colorado",
+        "Sheet Number": "sh. 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.5318945646286,
+              39.79344783580983
+            ],
+            [
+              -105.53193747997284,
+              39.79299443778521
+            ],
+            [
+              -105.53130984306335,
+              39.79299443778521
+            ],
+            [
+              -105.53128838539124,
+              39.79343134866131
+            ],
+            [
+              -105.5318945646286,
+              39.79344783580983
             ]
           ]
         ]
