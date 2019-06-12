@@ -335,7 +335,7 @@
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1890,
         "Location": "Denver, Colorado",
-        "Sheet Number": "sh.1"
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -411,7 +411,7 @@
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1890,
         "Location": "Denver, Colorado",
-        "Sheet Number": "sh.10"
+        "Sheet Number": "sh. 10"
       },
       "geometry": {
         "type": "Polygon",
