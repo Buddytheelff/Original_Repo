@@ -1,0 +1,401 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.87429463863373,
+              37.46927441231163
+            ],
+            [
+              -105.87428390979765,
+              37.46584481300129
+            ],
+            [
+              -105.87081581354141,
+              37.46585758647501
+            ],
+            [
+              -105.87083995342253,
+              37.46928079875574
+            ],
+            [
+              -105.87429463863373,
+              37.46927441231163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.87429732084274,
+              37.46927441231163
+            ],
+            [
+              -105.87083995342253,
+              37.46928079875574
+            ],
+            [
+              -105.87083995342253,
+              37.47257187370216
+            ],
+            [
+              -105.87428122758865,
+              37.4725761311438
+            ],
+            [
+              -105.87429732084274,
+              37.46927441231163
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.87083995342253,
+              37.47257187370216
+            ],
+            [
+              -105.87083995342253,
+              37.46928079875574
+            ],
+            [
+              -105.86713582277298,
+              37.46926802586693
+            ],
+            [
+              -105.86711972951889,
+              37.4725761311438
+            ],
+            [
+              -105.87083995342253,
+              37.47257187370216
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86713582277298,
+              37.46926802586693
+            ],
+            [
+              -105.86373746395111,
+              37.46926802586693
+            ],
+            [
+              -105.86376428604126,
+              37.47259316090801
+            ],
+            [
+              -105.8671224117279,
+              37.4725761311438
+            ],
+            [
+              -105.86713582277298,
+              37.46926802586693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.87083995342253,
+              37.46928079875574
+            ],
+            [
+              -105.87081581354141,
+              37.46585758647501
+            ],
+            [
+              -105.86711168289183,
+              37.46585119973842
+            ],
+            [
+              -105.86713582277298,
+              37.46926802586693
+            ],
+            [
+              -105.87083995342253,
+              37.46928079875574
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86713582277298,
+              37.4692701546819
+            ],
+            [
+              -105.86711168289183,
+              37.46585119973842
+            ],
+            [
+              -105.8638286590576,
+              37.465849070826124
+            ],
+            [
+              -105.86383134126662,
+              37.46926802586693
+            ],
+            [
+              -105.86713582277298,
+              37.4692701546819
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86383134126662,
+              37.46926802586693
+            ],
+            [
+              -105.8638286590576,
+              37.465849070826124
+            ],
+            [
+              -105.86050271987915,
+              37.465883133415836
+            ],
+            [
+              -105.86050271987915,
+              37.46928079875574
+            ],
+            [
+              -105.86383134126662,
+              37.46926802586693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.8638286590576,
+              37.465849070826124
+            ],
+            [
+              -105.86382061243057,
+              37.46236183108279
+            ],
+            [
+              -105.86049735546112,
+              37.46237886317399
+            ],
+            [
+              -105.86050271987915,
+              37.465883133415836
+            ],
+            [
+              -105.8638286590576,
+              37.465849070826124
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86199402809143,
+              37.46237034712889
+            ],
+            [
+              -105.8654648065567,
+              37.4623554440476
+            ],
+            [
+              -105.86545944213867,
+              37.4607480228434
+            ],
+            [
+              -105.86197257041931,
+              37.46075653907328
+            ],
+            [
+              -105.86199402809143,
+              37.46237034712889
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86382061243057,
+              37.462363960094414
+            ],
+            [
+              -105.8638286590576,
+              37.465849070826124
+            ],
+            [
+              -105.86711168289183,
+              37.46585119973842
+            ],
+            [
+              -105.86711168289183,
+              37.46234905701186
+            ],
+            [
+              -105.86382061243057,
+              37.462363960094414
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1912,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.86711168289183,
+              37.46585119973842
+            ],
+            [
+              -105.87081581354141,
+              37.46585758647501
+            ],
+            [
+              -105.87083458900452,
+              37.462340540963346
+            ],
+            [
+              -105.86711168289183,
+              37.462351186023845
+            ],
+            [
+              -105.86711168289183,
+              37.46585119973842
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
