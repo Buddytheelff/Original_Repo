@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
-        "Year": 1890,
+        "Year": 1891,
         "Location": "Georgetown, Colorado",
         "Sheet Number": "sh. 3"
       },
@@ -41,7 +41,7 @@
       "type": "Feature",
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
-        "Year": 1890,
+        "Year": 1891,
         "Location": "Georgetown, Colorado",
         "Sheet Number": "sh. 4"
       },
@@ -81,7 +81,7 @@
       "type": "Feature",
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
-        "Year": 1890,
+        "Year": 1891,
         "Location": "Georgetown, Colorado",
         "Sheet Number": "sh. 1"
       },
@@ -117,7 +117,7 @@
       "type": "Feature",
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
-        "Year": 1890,
+        "Year": 1891,
         "Location": "Georgetown, Colorado",
         "Sheet Number": "sh. 2"
       },
@@ -160,6 +160,42 @@
             [
               -105.70080399513245,
               39.70367865929381
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Georgetown, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.72805523872375,
+              39.69662085337441
+            ],
+            [
+              -105.72669267654418,
+              39.693640674163284
+            ],
+            [
+              -105.72279810905457,
+              39.694928523626466
+            ],
+            [
+              -105.7244074344635,
+              39.69768576155528
+            ],
+            [
+              -105.72805523872375,
+              39.69662085337441
             ]
           ]
         ]
