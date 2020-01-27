@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.81545239686965,
+              39.990425330612176
+            ],
+            [
+              -104.8154604434967,
+              39.991415823498635
+            ],
+            [
+              -104.81669157743454,
+              39.99141376854902
+            ],
+            [
+              -104.81668621301651,
+              39.99043355052927
+            ],
+            [
+              -104.81545239686965,
+              39.990425330612176
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.819296002388,
+              39.990515749645674
+            ],
+            [
+              -104.81903851032256,
+              39.99133568041743
+            ],
+            [
+              -104.82142567634583,
+              39.99138294429722
+            ],
+            [
+              -104.82184141874313,
+              39.99053424443324
+            ],
+            [
+              -104.819296002388,
+              39.990515749645674
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 2",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.82305645942688,
+              39.99054451931305
+            ],
+            [
+              -104.82311278581619,
+              39.98682080165354
+            ],
+            [
+              -104.81838941574097,
+              39.986812581301734
+            ],
+            [
+              -104.81843233108519,
+              39.99050752973851
+            ],
+            [
+              -104.82305645942688,
+              39.99054451931305
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.81795221567154,
+              39.98727497455487
+            ],
+            [
+              -104.81793880462646,
+              39.98534112238948
+            ],
+            [
+              -104.81540411710739,
+              39.98532057106294
+            ],
+            [
+              -104.81543630361557,
+              39.987277029629006
+            ],
+            [
+              -104.81795221567154,
+              39.98727497455487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 3",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.81940060853957,
+              39.98681463638976
+            ],
+            [
+              -104.82296526432036,
+              39.98682080165354
+            ],
+            [
+              -104.82294917106628,
+              39.983577796081846
+            ],
+            [
+              -104.81933355331421,
+              39.98356546496842
+            ],
+            [
+              -104.81940060853957,
+              39.98681463638976
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "City": "Brighton, Colorado",
+        "Year": 1913,
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.81809705495834,
+              39.98208982565813
+            ],
+            [
+              -104.81809437274933,
+              39.9811444132499
+            ],
+            [
+              -104.81675326824188,
+              39.98114646850846
+            ],
+            [
+              -104.81676399707794,
+              39.9820939361183
+            ],
+            [
+              -104.81809705495834,
+              39.98208982565813
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
