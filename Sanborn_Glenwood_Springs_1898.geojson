@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Glenwood Springs, Colorado",
+        "Year": 1898,
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.32445776462554,
+              39.548517392434746
+            ],
+            [
+              -107.32121229171753,
+              39.54942326380255
+            ],
+            [
+              -107.32148051261902,
+              39.55013471612815
+            ],
+            [
+              -107.32466161251067,
+              39.54936949094651
+            ],
+            [
+              -107.32445776462554,
+              39.548517392434746
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Glenwood Springs, Colorado",
+        "Year": 1898,
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.32365846633911,
+              39.550186420227945
+            ],
+            [
+              -107.32365041971207,
+              39.55111088302841
+            ],
+            [
+              -107.32491910457611,
+              39.55111501929962
+            ],
+            [
+              -107.32492715120316,
+              39.550186420227945
+            ],
+            [
+              -107.32365846633911,
+              39.550186420227945
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Glenwood Springs, Colorado",
+        "Year": 1898,
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.31946349143982,
+              39.5494811729855
+            ],
+            [
+              -107.31856495141983,
+              39.55008094382354
+            ],
+            [
+              -107.31890559196471,
+              39.55038909992748
+            ],
+            [
+              -107.31977462768555,
+              39.54978933175332
+            ],
+            [
+              -107.31946349143982,
+              39.5494811729855
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Glenwood Springs, Colorado",
+        "Year": 1898,
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.32366919517517,
+              39.547832810564266
+            ],
+            [
+              -107.32374429702759,
+              39.54466627301513
+            ],
+            [
+              -107.32010722160338,
+              39.54459181317587
+            ],
+            [
+              -107.3199999332428,
+              39.54777696824063
+            ],
+            [
+              -107.32366919517517,
+              39.547832810564266
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Glenwood Springs, Colorado",
+        "Year": 1898,
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -107.32374429702759,
+              39.54466627301513
+            ],
+            [
+              -107.32366919517517,
+              39.547832810564266
+            ],
+            [
+              -107.32738673686981,
+              39.54789278930627
+            ],
+            [
+              -107.32749670743942,
+              39.544720049516016
+            ],
+            [
+              -107.32374429702759,
+              39.54466627301513
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
