@@ -1,0 +1,1021 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 10"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5709097981453,
+              39.067363761728465
+            ],
+            [
+              -108.57094466686247,
+              39.06434826354746
+            ],
+            [
+              -108.5678306221962,
+              39.06433785069244
+            ],
+            [
+              -108.56781452894211,
+              39.06736584421033
+            ],
+            [
+              -108.5709097981453,
+              39.067363761728465
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 11"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5678306221962,
+              39.06433785069244
+            ],
+            [
+              -108.56447249650955,
+              39.06430036440167
+            ],
+            [
+              -108.56444299221039,
+              39.067342936906535
+            ],
+            [
+              -108.56781452894211,
+              39.06736584421033
+            ],
+            [
+              -108.5678306221962,
+              39.06433785069244
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 12"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56444299221039,
+              39.067342936906535
+            ],
+            [
+              -108.56447249650955,
+              39.06430036440167
+            ],
+            [
+              -108.56101512908934,
+              39.06430036440167
+            ],
+            [
+              -108.56101512908934,
+              39.06732419456154
+            ],
+            [
+              -108.56444299221039,
+              39.067342936906535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56274783611296,
+              39.06357562553379
+            ],
+            [
+              -108.56274247169495,
+              39.06168252252885
+            ],
+            [
+              -108.56164276599884,
+              39.06168252252885
+            ],
+            [
+              -108.56164813041687,
+              39.06080780432378
+            ],
+            [
+              -108.56274247169495,
+              39.06080780432378
+            ],
+            [
+              -108.56274783611296,
+              39.06023298360235
+            ],
+            [
+              -108.5616374015808,
+              39.060230900910085
+            ],
+            [
+              -108.55934411287306,
+              39.06022673552532
+            ],
+            [
+              -108.55935752391815,
+              39.0635693777526
+            ],
+            [
+              -108.56274783611296,
+              39.06357562553379
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56781452894211,
+              39.06736584421033
+            ],
+            [
+              -108.56444299221039,
+              39.067342936906535
+            ],
+            [
+              -108.5644456744194,
+              39.07033748321683
+            ],
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ],
+            [
+              -108.56781452894211,
+              39.06736584421033
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 7"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56444031000137,
+              39.067342936906535
+            ],
+            [
+              -108.56101512908934,
+              39.06732419456154
+            ],
+            [
+              -108.56100976467133,
+              39.07032707124532
+            ],
+            [
+              -108.5644456744194,
+              39.07033748321683
+            ],
+            [
+              -108.56444031000137,
+              39.067342936906535
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ],
+            [
+              -108.5709285736084,
+              39.07033123603413
+            ],
+            [
+              -108.5709848999977,
+              39.067363761728465
+            ],
+            [
+              -108.56781452894211,
+              39.06736792669212
+            ],
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Grand Junction, Colorado",
+        "Year": 1919,
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56445103883743,
+              39.06342567863217
+            ],
+            [
+              -108.56445372104645,
+              39.0629091924221
+            ],
+            [
+              -108.56274783611296,
+              39.06290710980876
+            ],
+            [
+              -108.56274783611296,
+              39.063427761230216
+            ],
+            [
+              -108.56445103883743,
+              39.06342567863217
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5715052485466,
+              39.067320029595315
+            ],
+            [
+              -108.57217848300934,
+              39.06731586462883
+            ],
+            [
+              -108.5721731185913,
+              39.06831128462662
+            ],
+            [
+              -108.57372879981995,
+              39.068309202172664
+            ],
+            [
+              -108.57373952865602,
+              39.06668070436497
+            ],
+            [
+              -108.57149451971054,
+              39.06667029185401
+            ],
+            [
+              -108.5715052485466,
+              39.067320029595315
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56101512908934,
+              39.06357354294012
+            ],
+            [
+              -108.56032580137253,
+              39.063571460346395
+            ],
+            [
+              -108.5603392124176,
+              39.06536038572481
+            ],
+            [
+              -108.56101512908934,
+              39.06536038572481
+            ],
+            [
+              -108.56101512908934,
+              39.06357354294012
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 13"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5603392124176,
+              39.06524792842175
+            ],
+            [
+              -108.5576730966568,
+              39.06526458877425
+            ],
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ],
+            [
+              -108.56101244688034,
+              39.06831128462662
+            ],
+            [
+              -108.56101512908934,
+              39.06536038572481
+            ],
+            [
+              -108.5603392124176,
+              39.06536038572481
+            ],
+            [
+              -108.5603392124176,
+              39.06524792842175
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 8"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56101512908934,
+              39.06831128462662
+            ],
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ],
+            [
+              -108.55766505002975,
+              39.0715223555409
+            ],
+            [
+              -108.56101512908934,
+              39.07154526148825
+            ],
+            [
+              -108.56101512908934,
+              39.06831128462662
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 9"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ],
+            [
+              -108.55427473783493,
+              39.06830295481042
+            ],
+            [
+              -108.55426400899887,
+              39.0715223555409
+            ],
+            [
+              -108.55766773223877,
+              39.0715223555409
+            ],
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 14"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ],
+            [
+              -108.5576730966568,
+              39.06526458877425
+            ],
+            [
+              -108.55429083108902,
+              39.06526667131802
+            ],
+            [
+              -108.55427473783493,
+              39.06830503726455
+            ],
+            [
+              -108.55766773223877,
+              39.068309202172664
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55428546667098,
+              39.066320430592974
+            ],
+            [
+              -108.55429351329803,
+              39.06486890434004
+            ],
+            [
+              -108.55242937803268,
+              39.06486473922893
+            ],
+            [
+              -108.55243206024169,
+              39.066322513105604
+            ],
+            [
+              -108.55428546667098,
+              39.066320430592974
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5709285736084,
+              39.07033123603413
+            ],
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ],
+            [
+              -108.56782793998718,
+              39.073590107921675
+            ],
+            [
+              -108.5709285736084,
+              39.073590107921675
+            ],
+            [
+              -108.5709285736084,
+              39.07033123603413
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ],
+            [
+              -108.5644456744194,
+              39.07033748321683
+            ],
+            [
+              -108.56444835662842,
+              39.073592190219806
+            ],
+            [
+              -108.56782793998718,
+              39.073590107921675
+            ],
+            [
+              -108.56782793998718,
+              39.07033748321683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5644456744194,
+              39.07033748321683
+            ],
+            [
+              -108.56101244688034,
+              39.07032915363976
+            ],
+            [
+              -108.56102049350739,
+              39.0735630380402
+            ],
+            [
+              -108.56444835662842,
+              39.073592190219806
+            ],
+            [
+              -108.5644456744194,
+              39.07033748321683
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 15"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56101512908934,
+              39.07740061069811
+            ],
+            [
+              -108.56101781129837,
+              39.0763865789598
+            ],
+            [
+              -108.56013268232346,
+              39.0763928256065
+            ],
+            [
+              -108.56013000011443,
+              39.07739852851234
+            ],
+            [
+              -108.56101512908934,
+              39.07740061069811
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56049209833144,
+              39.0592645250633
+            ],
+            [
+              -108.56049209833144,
+              39.06022881821774
+            ],
+            [
+              -108.5616374015808,
+              39.060230900910085
+            ],
+            [
+              -108.56164276599884,
+              39.05926244234243
+            ],
+            [
+              -108.56049209833144,
+              39.0592645250633
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55935215950012,
+              39.06249891640899
+            ],
+            [
+              -108.55934947729111,
+              39.061622125667775
+            ],
+            [
+              -108.55732440948486,
+              39.06164086952674
+            ],
+            [
+              -108.55733245611191,
+              39.06262387382285
+            ],
+            [
+              -108.55764091014862,
+              39.06262387382285
+            ],
+            [
+              -108.5576382279396,
+              39.06250516428493
+            ],
+            [
+              -108.55935215950012,
+              39.06249891640899
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 16"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.5644456744194,
+              39.073987825752376
+            ],
+            [
+              -108.56101512908934,
+              39.07397533203264
+            ],
+            [
+              -108.56101512908934,
+              39.07717365208821
+            ],
+            [
+              -108.56443762779234,
+              39.07718614524169
+            ],
+            [
+              -108.5644456744194,
+              39.073987825752376
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Sheet Number": "sh. 19"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55429351329803,
+              39.063906757146576
+            ],
+            [
+              -108.55429887771606,
+              39.0633652832624
+            ],
+            [
+              -108.55318307876587,
+              39.063361118062566
+            ],
+            [
+              -108.55317234992981,
+              39.0639025919787
+            ],
+            [
+              -108.55429351329803,
+              39.063906757146576
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Sheet Number": "sh. 17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.55765700340271,
+              39.073398536229526
+            ],
+            [
+              -108.55765968561172,
+              39.072342800291814
+            ],
+            [
+              -108.5541272163391,
+              39.07235321196596
+            ],
+            [
+              -108.55410575866698,
+              39.073398536229526
+            ],
+            [
+              -108.55765700340271,
+              39.073398536229526
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Location": "Grand Junction, Colorado",
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Sheet Number": "sh. 17"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56444299221039,
+              39.07687173353985
+            ],
+            [
+              -108.56816053390503,
+              39.076875897942415
+            ],
+            [
+              -108.56819272041321,
+              39.07447299682496
+            ],
+            [
+              -108.5644456744194,
+              39.074470914552805
+            ],
+            [
+              -108.56444299221039,
+              39.07687173353985
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.56875061988829,
+              39.06343400902395
+            ],
+            [
+              -108.56875061988829,
+              39.06294043161474
+            ],
+            [
+              -108.56816321611404,
+              39.06293210116472
+            ],
+            [
+              -108.5681739449501,
+              39.06343400902395
+            ],
+            [
+              -108.56875061988829,
+              39.06343400902395
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Year": 1919,
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Location": "Grand Junction, Colorado",
+        "Sheet Number": "sh. 18"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -108.567253947258,
+              39.06342984382819
+            ],
+            [
+              -108.56725931167601,
+              39.06291544026173
+            ],
+            [
+              -108.56445372104645,
+              39.0629091924221
+            ],
+            [
+              -108.56445103883743,
+              39.06342567863217
+            ],
+            [
+              -108.567253947258,
+              39.06342984382819
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
