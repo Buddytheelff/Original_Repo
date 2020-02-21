@@ -1,0 +1,297 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69442576169968,
+              40.424896660539304
+            ],
+            [
+              -104.69080746173857,
+              40.4248925768405
+            ],
+            [
+              -104.69077527523041,
+              40.42842692539929
+            ],
+            [
+              -104.6943747997284,
+              40.42842692539929
+            ],
+            [
+              -104.69442576169968,
+              40.424896660539304
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69445526599884,
+              40.42132128732748
+            ],
+            [
+              -104.69085574150085,
+              40.42130495166254
+            ],
+            [
+              -104.69080746173857,
+              40.4248925768405
+            ],
+            [
+              -104.69442576169968,
+              40.424896660539304
+            ],
+            [
+              -104.69445526599884,
+              40.42132128732748
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 6"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69085574150085,
+              40.42130495166254
+            ],
+            [
+              -104.68706846237183,
+              40.42130495166254
+            ],
+            [
+              -104.68706846237183,
+              40.42486603279224
+            ],
+            [
+              -104.69080746173857,
+              40.4248925768405
+            ],
+            [
+              -104.69085574150085,
+              40.42130495166254
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69080746173857,
+              40.4248925768405
+            ],
+            [
+              -104.68706846237183,
+              40.42486603279224
+            ],
+            [
+              -104.6870094537735,
+              40.42840242448878
+            ],
+            [
+              -104.69077527523041,
+              40.42842692539929
+            ],
+            [
+              -104.69080746173857,
+              40.4248925768405
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.68847393989563,
+              40.428573930674865
+            ],
+            [
+              -104.68776583671568,
+              40.42856576372355
+            ],
+            [
+              -104.68773365020752,
+              40.42961112543217
+            ],
+            [
+              -104.6886134147644,
+              40.42961929225654
+            ],
+            [
+              -104.68847393989563,
+              40.428573930674865
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.68359768390656,
+              40.425797110070654
+            ],
+            [
+              -104.68358159065247,
+              40.42638515223744
+            ],
+            [
+              -104.68444526195526,
+              40.42638923584563
+            ],
+            [
+              -104.68445062637329,
+              40.425797110070654
+            ],
+            [
+              -104.68359768390656,
+              40.425797110070654
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.68709528446198,
+              40.41976529743613
+            ],
+            [
+              -104.68649983406067,
+              40.41976529743613
+            ],
+            [
+              -104.68648910522461,
+              40.42045140765086
+            ],
+            [
+              -104.68709528446198,
+              40.4204554916193
+            ],
+            [
+              -104.68709528446198,
+              40.41976529743613
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1891,
+        "Location": "Greeley, Colorado",
+        "Sheet Number": "sh. 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -104.69828814268112,
+              40.42258933121333
+            ],
+            [
+              -104.69444453716278,
+              40.422554618574935
+            ],
+            [
+              -104.69442576169968,
+              40.424896660539304
+            ],
+            [
+              -104.69440966844559,
+              40.42600945922393
+            ],
+            [
+              -104.69829082489014,
+              40.42600945922393
+            ],
+            [
+              -104.69828814268112,
+              40.42258933121333
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
