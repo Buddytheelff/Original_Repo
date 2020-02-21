@@ -1,0 +1,185 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Lafayette, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.0909125804901,
+              39.99626327756847
+            ],
+            [
+              -105.08676320314406,
+              39.99625505835298
+            ],
+            [
+              -105.08677124977112,
+              39.99922624029391
+            ],
+            [
+              -105.0909125804901,
+              39.999215966720165
+            ],
+            [
+              -105.0909125804901,
+              39.99626327756847
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Lafayette, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.08676320314406,
+              39.99625505835298
+            ],
+            [
+              -105.08256554603577,
+              39.996259167960844
+            ],
+            [
+              -105.08256554603577,
+              39.999248842150685
+            ],
+            [
+              -105.08677124977112,
+              39.99922624029391
+            ],
+            [
+              -105.08676320314406,
+              39.99625505835298
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Lafayette, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.08790314197537,
+              40.00023304302261
+            ],
+            [
+              -105.08679807186124,
+              40.00023304302261
+            ],
+            [
+              -105.08679807186124,
+              40.00080013353415
+            ],
+            [
+              -105.08790314197537,
+              40.00080013353415
+            ],
+            [
+              -105.08790314197537,
+              40.00023304302261
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Lafayette, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.08677124977112,
+              39.99922624029391
+            ],
+            [
+              -105.08549183607101,
+              39.99923240443742
+            ],
+            [
+              -105.08548378944397,
+              40.000202222751206
+            ],
+            [
+              -105.08678197860716,
+              40.000202222751206
+            ],
+            [
+              -105.08677124977112,
+              39.99922624029391
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1900,
+        "Location": "Lafayette, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.08256554603577,
+              39.996259167960844
+            ],
+            [
+              -105.08052706718445,
+              39.99626533237218
+            ],
+            [
+              -105.08052706718445,
+              39.99725985011502
+            ],
+            [
+              -105.08256554603577,
+              39.99725985011502
+            ],
+            [
+              -105.08256554603577,
+              39.996259167960844
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
