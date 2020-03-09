@@ -1,0 +1,221 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10472059249878,
+              40.16186815169228
+            ],
+            [
+              -105.10120958089828,
+              40.16188455018898
+            ],
+            [
+              -105.10119616985321,
+              40.165731937988845
+            ],
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ],
+            [
+              -105.10472059249878,
+              40.16186815169228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10120153427124,
+              40.163444439077715
+            ],
+            [
+              -105.09729623794554,
+              40.163444439077715
+            ],
+            [
+              -105.09729623794554,
+              40.16675677808895
+            ],
+            [
+              -105.10119080543518,
+              40.166758827753654
+            ],
+            [
+              -105.10120153427124,
+              40.163444439077715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ],
+            [
+              -105.10119616985321,
+              40.165731937988845
+            ],
+            [
+              -105.10118007659912,
+              40.169068760527516
+            ],
+            [
+              -105.10465621948242,
+              40.169068760527516
+            ],
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.09650230407715,
+              40.1639240823328
+            ],
+            [
+              -105.09513974189758,
+              40.1639240823328
+            ],
+            [
+              -105.09513974189758,
+              40.164428319023905
+            ],
+            [
+              -105.09650230407715,
+              40.164428319023905
+            ],
+            [
+              -105.09650230407715,
+              40.1639240823328
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10385155677795,
+              40.160402520054234
+            ],
+            [
+              -105.10203838348389,
+              40.160402520054234
+            ],
+            [
+              -105.10203838348389,
+              40.16096827811417
+            ],
+            [
+              -105.10385155677795,
+              40.16096827811417
+            ],
+            [
+              -105.10385155677795,
+              40.160402520054234
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1890,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10920524597168,
+              40.1626081299121
+            ],
+            [
+              -105.10781049728394,
+              40.1626081299121
+            ],
+            [
+              -105.10781049728394,
+              40.163411642833914
+            ],
+            [
+              -105.10920524597168,
+              40.163411642833914
+            ],
+            [
+              -105.10920524597168,
+              40.1626081299121
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
