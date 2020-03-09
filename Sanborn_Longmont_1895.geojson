@@ -1,0 +1,365 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10472059249878,
+              40.16186815169228
+            ],
+            [
+              -105.10120958089828,
+              40.16188455018898
+            ],
+            [
+              -105.10119616985321,
+              40.165731937988845
+            ],
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ],
+            [
+              -105.10472059249878,
+              40.16186815169228
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 4"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10120153427124,
+              40.163444439077715
+            ],
+            [
+              -105.09729623794554,
+              40.163444439077715
+            ],
+            [
+              -105.09729623794554,
+              40.16675677808895
+            ],
+            [
+              -105.10119080543518,
+              40.166758827753654
+            ],
+            [
+              -105.10120153427124,
+              40.163444439077715
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 3"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ],
+            [
+              -105.10119616985321,
+              40.165731937988845
+            ],
+            [
+              -105.10118007659912,
+              40.169068760527516
+            ],
+            [
+              -105.10465621948242,
+              40.169068760527516
+            ],
+            [
+              -105.10472059249878,
+              40.16572988829312
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 1"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10432362556458,
+              40.16095597907603
+            ],
+            [
+              -105.10111033916473,
+              40.16095597907603
+            ],
+            [
+              -105.10111033916473,
+              40.16188455018898
+            ],
+            [
+              -105.10432362556458,
+              40.16187020150461
+            ],
+            [
+              -105.10432362556458,
+              40.16095597907603
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.10915160179138,
+              40.16261632907157
+            ],
+            [
+              -105.10762810707092,
+              40.16261632907157
+            ],
+            [
+              -105.10762810707092,
+              40.16359202197868
+            ],
+            [
+              -105.10915160179138,
+              40.16359202197868
+            ],
+            [
+              -105.10915160179138,
+              40.16261632907157
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.1093339920044,
+              40.16083708825924
+            ],
+            [
+              -105.1085615158081,
+              40.16083708825924
+            ],
+            [
+              -105.1085615158081,
+              40.161460237812456
+            ],
+            [
+              -105.1093339920044,
+              40.161460237812456
+            ],
+            [
+              -105.1093339920044,
+              40.16083708825924
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.1094627380371,
+              40.165731937988845
+            ],
+            [
+              -105.10852932929993,
+              40.165731937988845
+            ],
+            [
+              -105.10852932929993,
+              40.16644522833539
+            ],
+            [
+              -105.1094627380371,
+              40.16644522833539
+            ],
+            [
+              -105.1094627380371,
+              40.165731937988845
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.09649157524107,
+              40.1636494152424
+            ],
+            [
+              -105.09506464004517,
+              40.1636494152424
+            ],
+            [
+              -105.09506464004517,
+              40.16462509330204
+            ],
+            [
+              -105.09649157524107,
+              40.16462509330204
+            ],
+            [
+              -105.09649157524107,
+              40.1636494152424
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.09442090988159,
+              40.16331325400751
+            ],
+            [
+              -105.09305834770203,
+              40.16331325400751
+            ],
+            [
+              -105.09305834770203,
+              40.164116758583724
+            ],
+            [
+              -105.09442090988159,
+              40.164116758583724
+            ],
+            [
+              -105.09442090988159,
+              40.16331325400751
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Set Title": "Sanborn fire insurance maps. Colorado",
+        "Year": 1895,
+        "Location": "Longmont, Colorado",
+        "Sheet Number": "sh. 5"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -105.09984970092773,
+              40.17066742573387
+            ],
+            [
+              -105.09817600250244,
+              40.17066742573387
+            ],
+            [
+              -105.09817600250244,
+              40.17151183369655
+            ],
+            [
+              -105.09984970092773,
+              40.17151183369655
+            ],
+            [
+              -105.09984970092773,
+              40.17066742573387
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
