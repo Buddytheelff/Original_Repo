@@ -6,7 +6,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -41,7 +42,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 4"
       },
       "geometry": {
         "type": "Polygon",
@@ -76,7 +78,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 2"
       },
       "geometry": {
         "type": "Polygon",
@@ -127,7 +130,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 3"
       },
       "geometry": {
         "type": "Polygon",
@@ -162,7 +166,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -197,7 +202,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
@@ -232,7 +238,8 @@
       "properties": {
         "Set Title": "Sanborn fire insurance maps. Colorado",
         "Year": 1900,
-        "Location": "Loveland, Colorado"
+        "Location": "Loveland, Colorado",
+        "Sheet Number": "sh. 1"
       },
       "geometry": {
         "type": "Polygon",
