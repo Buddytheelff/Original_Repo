@@ -112,10 +112,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": "Sanborn fire insurance maps. Colorado",
-        "Location": 1909,
-        "Sheet Number": "Alamosa, Colorado",
-        "Set Title": "sh. 2"
+        "Year": 1909,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 2",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -172,10 +172,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": "Sanborn fire insurance maps. Colorado",
-        "Location": 1909,
-        "Sheet Number": "Alamosa, Colorado",
-        "Set Title": "sh. 1"
+        "Year": 1909,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -208,10 +208,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": "Sanborn fire insurance maps. Colorado",
-        "Location": 1909,
-        "Sheet Number": "Alamosa, Colorado",
-        "Set Title": "sh. 1"
+        "Year": 1909,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
@@ -244,10 +244,10 @@
     {
       "type": "Feature",
       "properties": {
-        "Year": "Sanborn fire insurance maps. Colorado",
-        "Location": 1909,
-        "Sheet Number": "Alamosa, Colorado",
-        "Set Title": "sh. 1"
+        "Year": 1909,
+        "Location": "Alamosa, Colorado",
+        "Sheet Number": "sh. 1",
+        "Set Title": "Sanborn fire insurance maps. Colorado"
       },
       "geometry": {
         "type": "Polygon",
